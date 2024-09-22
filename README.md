@@ -12,7 +12,7 @@ With mod customization, authors have complete control over what is included and 
 
 The following areas provide ample opportunities to unleash creativity:
 
-1. Background music - dynamic music that fits browsing
+1. Background music - 
 2. Keyboard sounds - mechanical keyboard, typewriter, or sci-fi terminal sounds
 3. Browser sounds - opening and closing tabs, clicking, flipping switches, etc.
 4. Wallpaper - light and dark versions (static and animated)
